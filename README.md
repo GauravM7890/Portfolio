@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I'm Anish, graduated from Indian Institue of Technology(IIT). Currently working on Cutting-edge Technology, Openpose, Blende and SMPLX, while understanding and implementing the fundamentals of computer engineering and learning web development. \
-This portfolio is SEO indexed. Simply search for **[Anish Majumdar](https://www.google.com/search?client=opera&q=anish+majumdar&sourceid=opera&ie=UTF-8&oe=UTF-8)** on Google to check!
+This portfolio is SEO indexed. Simply search for **[Anish Majumdar](https://www.google.com/search?client=opera&q=anish+majumdar+kgp&sourceid=opera&ie=UTF-8&oe=UTF-8)** on Google to check!
 
 ## 🐣 Demo
 ### Home Page
