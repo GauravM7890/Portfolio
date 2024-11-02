@@ -2,8 +2,8 @@
 
 
 ## 🚀 About Me
-I'm Dhruba, graduated from Delhi Technological University(DTU) with a major in Software Engineering. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development. \
-This portfolio is SEO indexed. Simply search for **[Dhruba Datta](https://www.google.com/search?client=opera&q=dhruba+datta&sourceid=opera&ie=UTF-8&oe=UTF-8)** on Google to check!
+I'm Anish, graduated from Indian Institue of Technology(IIT). Currently working on Cutting-edge Technology, Openpose, Blende and SMPLX, while understanding and implementing the fundamentals of computer engineering and learning web development. \
+This portfolio is SEO indexed. Simply search for **[Anish Majumdar]([https://www.google.com/search?client=opera&q=dhruba+datta&sourceid=opera&ie=UTF-8&oe=UTF-8](https://www.google.com/search?q=anish+majumdar+netlify&sca_esv=e02818271ce7f460&sxsrf=ADLYWIKFjw-Xx56yYFmgaxRRMViI-mXVDA%3A1730554983076&ei=ZywmZ4CjBNnm1e8P3IuXgA4&oq=anish+majumdar+&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2FuaXNoIG1hanVtZGFyICoCCAAyBBAjGCcyBBAjGCcyBBAjGCcyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCBAAGIAEGKIESPgiUMEIWIQacAF4AJABAJgB0wGgAZcGqgEFMC4yLjK4AQPIAQD4AQGYAgWgArUGwgINECMYgAQYsAMYJxiKBcICBxAjGLADGCfCAggQABiABBiwA8ICBxAAGLADGB7CAgkQABiwAxgIGB7CAg4QABiABBiwAxiGAxiKBcICCxAAGIAEGLADGKIEwgIKECMYgAQYJxiKBZgDAIgGAZAGCpIHBTEuMS4zoAfpJA&sclient=gws-wiz-serp))** on Google to check!
 
 ## 🐣 Demo
 ### Home Page
