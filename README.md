@@ -16,7 +16,7 @@ This portfolio is SEO indexed. Simply search for **[Anish Majumdar](https://www.
 ![image](https://user-images.githubusercontent.com/74358627/190101093-114140d0-1ae8-4e85-b9b4-d3d6bcdb2d0b.png)
 
 ### Resume Section
-![image](https://user-images.githubusercontent.com/74358627/190101264-1cb7909c-3b38-485c-9eb7-4953b1dc0af3.png)
+![image]()
 
 ### Project Section
 ![image](https://user-images.githubusercontent.com/74358627/190101364-e72c4e9c-c5d7-4f5a-a06b-2155dc92fe86.png)
