@@ -7,7 +7,7 @@ This portfolio is SEO indexed. Simply search for **[Anish Majumdar](https://www.
 
 ## 🐣 Demo
 ### Home Page
-![Portfolio header](file:///Users/anishmajumdar/Desktop/Anish%20Majumdar%20_%20port1.gif.html)
+![Portfolio header]()
 
 ### About Me Section
 ![image](https://user-images.githubusercontent.com/74358627/190100914-42dedd11-11e6-4870-8ea7-33da42787dc1.png)
