@@ -22,7 +22,7 @@ This portfolio is SEO indexed. Simply search for **[Anish Majumdar](https://www.
 ![image](https://user-images.githubusercontent.com/74358627/190101364-e72c4e9c-c5d7-4f5a-a06b-2155dc92fe86.png)
 
 ### Contact Me Section
-![image](https://user-images.githubusercontent.com/74358627/190101514-fa7fbfb2-5bb5-4ace-bd37-fbc28150f346.png)
+![image]()
 
 ## ✅ Acknowledgements
 
